@@ -8,3 +8,9 @@
 - `template.md` Template for markdown of newsletter
 - `template.html` HTML template for newsletter emails
 - `sponsors.md` sponsors segment at bottom of newsletter
+
+## TODO
+
+- Auto-generation of the newsletter from events on website
+- auto add newsletter to website
+- auto upload newsletter to SU mailing system
