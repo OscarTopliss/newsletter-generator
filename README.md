@@ -2,6 +2,10 @@
 A script used to generate a HTML email newsletter from a template HTML file and
 some markdown files.
 
+
+The script is based on Warwick Computer Science Society's script, found
+[here](https://github.com/d1s4rr4y/Newsletters)
+
 ## Requirements:
   Python 3
   The Markdown Python module (see below).
