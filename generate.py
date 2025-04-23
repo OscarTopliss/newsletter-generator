@@ -167,26 +167,4 @@ if __name__ == '__main__':
 
     with open(output_file, "w") as output:
         output.write(newsletter_html)
-
-
-
-
-
-
-
-
-
-
-# body_html = open_and_render(f"{nl_name}.md")
-# sponsors_html = open_and_render("sponsors.md")
-
-# with open("template.html", encoding="utf8") as tpf:
-#     template = tpf.read()
-#     news_html = (template
-#                  .replace("{{ title }}", title)
-#                 .replace("{{ content }}", body_html)
-#                 .replace("{{ sponsors }}", sponsors_html)
-#             )
-
-# with open(f"{nl_name}.html", "w", encoding="utf8") as htmlf:
-#     htmlf.write(news_html)
+        
