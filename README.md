@@ -51,10 +51,13 @@ things aren't formatting the way you expect in the newsletter.
 ### Flags
 `-h`, `--help`
   Outputs a help message, detailing usage and flags.
+
 `-o`, `--output`
   The output file. By default, the same as the file but with a .html extension.
+
 `-t`,`--template`
   The template file. By default the script looks for template.html
+
 `-s-`, `--sections`
   The folder/directory containing any markdown files for specific sections.
   Checks the current directory by default.
