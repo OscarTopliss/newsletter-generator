@@ -115,7 +115,6 @@ def render_newsletter(filename : str , section_dir : str , template : str ):
             return template_content.replace("{{ content }}", input_html)
 
         # markdown.markdown renders markdown as HTML.
-        return markdown.markdown(file_markdown)
 
 
 if __name__ == '__main__':
