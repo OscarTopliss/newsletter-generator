@@ -8,6 +8,7 @@ The script is based on Warwick Computer Science Society's script, found
 
 ## Requirements:
   Python 3
+
   The Markdown Python module (see below).
 
 ## Installation
@@ -58,7 +59,7 @@ things aren't formatting the way you expect in the newsletter.
 `-t`,`--template`
   The template file. By default the script looks for template.html
 
-`-s-`, `--sections`
+`-s`, `--sections`
   The folder/directory containing any markdown files for specific sections.
   Checks the current directory by default.
 
