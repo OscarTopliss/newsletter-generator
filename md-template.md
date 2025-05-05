@@ -1,7 +1,6 @@
 # Warwick CyberSoc Newsletter | Term {{ term }} Week {{ week }}
 
-> \<Some hilarious intro & summary>
-
+INTRO
 --------------------------------------------------------------------------------
 
 {{ events }}
@@ -20,6 +19,6 @@
 
 > \<Equally as hilarious sign off>
 **Oscar Topliss** & **Warwick Cyber Security Society Exec Team**<br />
-Vice President | Warwick Cyber Security<br />
+Vice President | [Warwick Cyber Security](https://warwickcybersoc.com)<br />
 [contact@warwickcybersoc.com](mailto:contact@warwickcybersoc.com)<br />
 University of Warwick | Coventry | CV4 7AL
