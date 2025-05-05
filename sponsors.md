@@ -5,7 +5,8 @@ sponsor CyberSoc's events and operations.
 ---
 ## Gold Sponsor - CrowdStrike 🦅
 <img src="https://warwickcybersoc.com/images/CS_Logo_Cropped.png" style = "max-width: 90%;" alt="CrowdStrike Logo"/>
-\#WeAreCrowdStrike and our mission is to stop breaches. As a global leader in
+
+**\#WeAreCrowdStrike** and our mission is to stop breaches. As a global leader in
 cybersecurity, our team has changed the game. Since our inception in 2011, our
 market leading cloud-native platform has offered unparalleled protection against
 the most sophisticated cyberattacks. It combines the most advanced endpoint
@@ -19,7 +20,9 @@ Apply [here](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers?Job_Fa
 
 ---
 ## Silver Sponsor - Interrupt Labs 🕵️
-Interrupt Labs is a leading vulnerability research company working on some of the toughest challenges in the industry;
+<img src="https://warwickcybersoc.com/images/IL_Logo.png" style = "max-width:90%;" alt="InterruptLabs Logo">
+
+**Interrupt Labs** is a leading vulnerability research company working on some of the toughest challenges in the industry;
 from popping browsers to exploiting phones and cars. We cover it all with an
 exceptional team of vulnerability researchers. We are always on the lookout for
 talented people; whether you are early on in your career, or you already know
